@@ -2,14 +2,14 @@ div
 {
     font-size: medium; 
     font-family: georgia; 
-    margin: 0 8% 0 8%;
+    margin: 0 6% 0 4%;
 }
 .center 
 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 75%;
+    width: 90%;
 }
 a:link {
     color: #86A5DD;
