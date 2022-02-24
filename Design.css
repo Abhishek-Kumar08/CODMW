@@ -2,15 +2,14 @@ div
 {
     font-size: medium; 
     font-family: georgia; 
-    font-size: large; 
-    margin: 0 20% 0 10%;
+    margin: 0 8% 0 8%;
 }
 .center 
 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 60%;
+    width: 75%;
 }
 a:link {
     color: #86A5DD;
@@ -40,5 +39,5 @@ body
     background-color: #343537; 
     padding-top: 20px; 
     padding-bottom: 20px; 
-    font-size: x-large;
+    font-size: large;
 }
