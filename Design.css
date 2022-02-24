@@ -1,0 +1,44 @@
+div
+{
+    font-size: medium; 
+    font-family: georgia; 
+    font-size: large; 
+    margin: 0 20% 0 10%;
+}
+.center 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+a:link {
+    color: #86A5DD;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:visited {
+color: #86A5DD;
+background-color: transparent;
+text-decoration: underline;
+}
+ul
+{
+    list-style-type: square;
+}
+li
+{
+    margin-top: 10px;
+}
+body
+{
+    background-color: #252627; 
+    color: white;
+}
+.heading
+{
+    background-color: #343537; 
+    padding-top: 20px; 
+    padding-bottom: 20px; 
+    font-size: x-large;
+}
