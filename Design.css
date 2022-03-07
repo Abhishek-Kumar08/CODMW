@@ -2,24 +2,25 @@ div
 {
     font-size: medium; 
     font-family: georgia; 
-    margin: 0 6% 0 4%;
+    margin: 0 2% 0 2%;
 }
 .center 
 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 90%;
+    width: 75%;
 }
-a:link {
+a:link, a:visited {
     color: #86A5DD;
     background-color: transparent;
     text-decoration: underline;
 }
-a:visited {
-color: #86A5DD;
+a:hover {
+color: #86A5FF;
 background-color: transparent;
 text-decoration: underline;
+text-shadow: 3px 3px 8px #86A5DD;
 }
 ul
 {
@@ -34,10 +35,16 @@ body
     background-color: #252627; 
     color: white;
 }
-.heading
+#heading
 {
     background-color: #343537; 
-    padding-top: 20px; 
-    padding-bottom: 20px; 
-    font-size: large;
+    padding-top: 15px; 
+    padding-bottom: 15px; 
+    font-size: 1.5em;
+    font-weight: bold;
+}
+#CODMW {
+    width: 128%;
+    margin-left: -14%;
+    margin-bottom: 20px;
 }
