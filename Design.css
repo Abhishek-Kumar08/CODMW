@@ -1,6 +1,6 @@
 div
 {
-    font-size: medium; 
+    font-size: large; 
     font-family: georgia; 
     margin: 0 2% 0 2%;
 }
@@ -9,7 +9,7 @@ div
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 75%;
+    width: 50%;
 }
 a:link, a:visited {
     color: #86A5DD;
